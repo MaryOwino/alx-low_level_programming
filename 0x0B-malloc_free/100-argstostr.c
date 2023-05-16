@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
-#include <stdlio.h>
+#include <stdio.h>
 /**
  * argstostr - Convert the params passed to program string
  * @ac: The argument count
