@@ -35,5 +35,3 @@ h = h->next;
 return (n);
 
 }
-
-
